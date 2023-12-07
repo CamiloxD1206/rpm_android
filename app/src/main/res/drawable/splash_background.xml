@@ -2,14 +2,14 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android"
     android:opacity="opaque">
 
-    <item android:drawable="@color/yellow" />
+    <item android:drawable="@color/black" />
     <item
         android:bottom="280dp"
         android:left="50dp"
         android:right="50dp"
         android:top="290dp">
 
-        <bitmap android:src="@drawable/iconosinfondo" />
+        <bitmap android:src="@drawable/iconoapp" />
     </item>
 
 
