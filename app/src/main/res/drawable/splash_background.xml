@@ -4,12 +4,12 @@
 
     <item android:drawable="@color/black" />
     <item
-        android:bottom="280dp"
-        android:left="50dp"
-        android:right="50dp"
-        android:top="290dp">
+        android:bottom="320dp"
+        android:left="90dp"
+        android:right="90dp"
+        android:top="320dp">
 
-        <bitmap android:src="@drawable/negativosplashtal"/>
+        <bitmap android:src="@drawable/icon" />
     </item>
 
 
