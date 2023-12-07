@@ -9,7 +9,7 @@
         android:right="50dp"
         android:top="290dp">
 
-        <bitmap android:src="@drawable/logosplash" />
+        <bitmap android:src="@drawable/negativosplashtal"/>
     </item>
 
 
