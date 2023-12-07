@@ -13,11 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
 
-        binding.btnregister.setOnClickListener{
-            var intent=Intent(this,LoginActivity::class.java)
-            startActivity(intent)
-            finish()
-        }
+
     }
 
 
