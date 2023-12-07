@@ -12,6 +12,7 @@
     <string name="email">Email</string>
     <string name="usuarioor">Usuario o Correo</string>
     <string name="password">Contraseña</string>
+    <string name="passwordconfirm">Confirmar contraseña</string>
     <string name="documento">Tipo de documento</string>
     <string name="registrarse">Registrarme</string>
     <string name="regreso">Regresar</string>
