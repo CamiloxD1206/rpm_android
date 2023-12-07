@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Rutas Para Moteros</string>
+    <string name="login">Login</string>
+    <string name="bienvenida">BIENVENIDO A DARKSIDE</string>
+    <string name="registrate">no tienes cuenta?Registrate</string>
+    <string name="ingreso">Ingresar</string>
+    <string name="registro">Crear cuenta</string>
+    <string name="registrousu">Registro de Usuario</string>
+    //---------------------hint-------------------
+    <string name="email">Email</string>
+    <string name="usuarioor">Usuario o Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="documento">Tipo de documento</string>
+    <string name="registrarse">Registrarme</string>
+    <string name="regreso">Regresar</string>
+    <string name="identificacion">Numero de identificacion</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+
+
+
+</resources>
