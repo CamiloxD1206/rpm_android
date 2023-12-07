@@ -16,9 +16,9 @@
         android:layout_height="61dp"
         android:layout_marginBottom="28dp"
         android:backgroundTint="@color/yellow"
-        android:text="Registrarse"
+        android:text="@string/registrarsePortada"
         android:textColor="@color/black"
-        android:textSize="70px"
+        android:textSize="60px"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -30,9 +30,9 @@
         android:layout_marginTop="12dp"
         android:backgroundTint="@color/yellow"
 
-        android:text="Iniciar Sesión"
+        android:text="@string/Portadalogin"
         android:textColor="@color/black"
-        android:textSize="70px"
+        android:textSize="60px"
         app:layout_constraintBottom_toTopOf="@+id/btnlogin"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

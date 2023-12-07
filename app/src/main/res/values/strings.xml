@@ -17,6 +17,8 @@
     <string name="identificacion">Numero de identificacion</string>
     <string name="nombres">Nombres</string>
     <string name="apellidos">Apellidos</string>
+    <string name="registrarsePortada">Registrarse</string>
+    <string name="Portadalogin">Iniciar Sesión</string>
 
 
 </resources>
