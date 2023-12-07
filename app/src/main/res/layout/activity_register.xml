@@ -126,7 +126,7 @@ android:id="@+id/emailuser"
                         <CheckBox
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Aceptarterminos y condiciones"
+                            android:text="Aceptar terminos y condiciones"
                             android:textSize="15dp"
                             tools:ignore="TextSizeCheck" />
                         <Button
