@@ -8,47 +8,43 @@
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".MainActivity">
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="match_parent"
-        android:layout_height="250dp"
-        android:layout_marginTop="120dp"
-        android:src="@drawable/logocolor"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-<LinearLayout
-    android:layout_width="800dp"
-    android:layout_height="600dp"
-    android:layout_marginTop="445dp"
-    android:orientation="vertical"
-    >
-
-    <Button
-android:layout_marginLeft="70dp"
-
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:backgroundTint="@color/yellow"
-        android:text="@string/Portadalogin"/>
-    <Button
-        android:layout_marginLeft="70dp"
-android:layout_marginBottom="20dp"
-        android:layout_width="255dp"
-        android:layout_height="wrap_content"
-        android:backgroundTint="@color/yellow"
-
-        android:text="@string/registrarsePortada"
-      />
-    <ImageView
-
+    <LinearLayout
+        android:layout_marginTop="100dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/motoportada"
-        />
+        android:orientation="vertical">
 
-</LinearLayout>
+         <ImageView
+             android:layout_marginTop="20dp"
+
+
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:src="@drawable/logorpm"/>
+
+        <Button
+            android:text="@string/Portadalogin"
+            android:backgroundTint="@color/yellow"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:text="@string/registrarsePortada"
+            android:backgroundTint="@color/yellow"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/motoportada"/>
+
+    </LinearLayout>
 
 
 </RelativeLayout>
