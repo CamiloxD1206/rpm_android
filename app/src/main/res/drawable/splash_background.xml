@@ -9,7 +9,7 @@
         android:right="50dp"
         android:top="290dp">
 
-        <bitmap android:src="@drawable/iconoapp" />
+        <bitmap android:src="@drawable/icon" />
     </item>
 
 
