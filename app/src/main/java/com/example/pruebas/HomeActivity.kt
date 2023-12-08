@@ -23,6 +23,6 @@ class HomeActivity : AppCompatActivity() {
 
 
         val welcomeMessage = findViewById<TextView>(R.id.welcomeMessage)
-        welcomeMessage.text = "Bienvenido, $nombre "
+        welcomeMessage.text = "$nombre "
     }
 }
