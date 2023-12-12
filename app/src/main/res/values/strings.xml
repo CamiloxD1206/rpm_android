@@ -22,6 +22,14 @@
     <string name="registrarsePortada">Registrarse</string>
     <string name="Portadalogin">Iniciar Sesión</string>
     <string name="spinner">Español</string>
+    //---------------------------------------------
+    <string name="trazar">Trazar Rutas</string>
+    <string name="trazardos">Entra para trazar una ruta</string>
+    <string name="presupuesto">Presuspuesto</string>
+    <string name="presupuestodos">Conoce los mejores precios</string>
+    <string name="garaje">Garaje</string>
+    <string name="garajedos">¿Hoy en que viajaras?</string>
+    <string name="top">Top Rutas</string>
 
 
 </resources>
