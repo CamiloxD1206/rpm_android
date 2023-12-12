@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:gravity="center"
     android:orientation="vertical"
+    android:gravity="center"
     android:background="@drawable/fondomain"
     tools:context=".MainActivity">
 
@@ -13,29 +13,52 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="50dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="770dp"
+        android:gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/spinner"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="420dp"
         android:layout_marginRight="50dp"
         android:orientation="vertical">
+
 
         <Button
             android:id="@+id/btnlogin"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="55dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:backgroundTint="@color/yellow"
-            android:text="@string/Portadalogin" />
+            android:text="@string/Portadalogin"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            app:cornerRadius="5dp" />
 
         <Button
             android:id="@+id/btnregister"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="55dp"
             android:layout_marginLeft="20dp"
-            android:layout_marginTop="21dp"
+            android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
             android:backgroundTint="@color/yellow"
-            android:text="@string/registrarsePortada" />
+            android:text="@string/registrarsePortada"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            app:cornerRadius="5dp"/>
     </LinearLayout>
 
 

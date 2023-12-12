@@ -21,6 +21,7 @@
     <string name="apellidos">Apellidos</string>
     <string name="registrarsePortada">Registrarse</string>
     <string name="Portadalogin">Iniciar Sesión</string>
+    <string name="spinner">Español</string>
 
 
 </resources>
