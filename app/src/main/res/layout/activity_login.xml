@@ -24,7 +24,7 @@
         <LinearLayout
             android:layout_marginTop="200dp"
             android:layout_width="match_parent"
-            android:layout_height="590dp"
+            android:layout_height="620dp"
             android:background="@drawable/rounded_corner_top_left"
             android:orientation="vertical"
             android:padding="16dp">
