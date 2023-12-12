@@ -6,19 +6,30 @@
     android:layout_height="match_parent"
     android:background="@color/black"
     tools:context=".RegisterActivity">
-<RelativeLayout
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="40dp"
-            android:layout_marginBottom="20dp"
-            android:text="@string/registraso"
-            android:textAlignment="center"
-            android:textColor="@color/white"
-            android:textSize="25dp" />
 
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="40dp"
+                            android:layout_marginBottom="20dp"
+                            android:text="@string/registraso"
+                            android:textAlignment="center"
+                            android:textColor="@color/white"
+                            android:textSize="25dp"
+                            android:textStyle="bold"/>
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/baseline_arrow_back_24"/>
+                </LinearLayout>
 
                 <LinearLayout
                     android:layout_marginTop="120dp"
@@ -26,10 +37,7 @@
                     android:layout_height="700dp"
                     android:background="@drawable/rounded_corner_top_left"
                     android:orientation="vertical"
-                    android:padding="16dp"
-                    >
-
-
+                    android:padding="16dp">
 
                         <com.google.android.material.textfield.TextInputLayout
                             android:layout_width="match_parent"
@@ -38,7 +46,7 @@
                             app:boxBackgroundMode="none">
 
                                 <com.google.android.material.textfield.TextInputEditText
-android:id="@+id/nombreuser"
+                                    android:id="@+id/nombreuser"
                                     android:layout_width="match_parent"
                                     android:layout_marginTop="20dp"
                                     android:layout_marginBottom="20dp"
@@ -47,8 +55,8 @@ android:id="@+id/nombreuser"
                                     android:inputType="text"
                                     android:textColor="@color/black"
                                     android:textColorHint="@color/black" />
-
                         </com.google.android.material.textfield.TextInputLayout>
+
                         <com.google.android.material.textfield.TextInputLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -56,7 +64,7 @@ android:id="@+id/nombreuser"
                             app:boxBackgroundMode="none">
 
                                 <com.google.android.material.textfield.TextInputEditText
-android:id="@+id/apellidouser"
+                                    android:id="@+id/apellidouser"
                                     android:layout_width="match_parent"
                                     android:layout_marginTop="10dp"
                                     android:layout_marginBottom="20dp"
@@ -65,16 +73,15 @@ android:id="@+id/apellidouser"
                                     android:inputType="text"
                                     android:textColor="@color/black"
                                     android:textColorHint="@color/black" />
-
                         </com.google.android.material.textfield.TextInputLayout>
+
                         <com.google.android.material.textfield.TextInputLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:gravity="center"
                             app:boxBackgroundMode="none">
-
                                 <com.google.android.material.textfield.TextInputEditText
-android:id="@+id/emailuser"
+                                    android:id="@+id/emailuser"
                                     android:layout_width="match_parent"
                                     android:layout_marginTop="10dp"
                                     android:layout_marginBottom="20dp"
@@ -83,7 +90,6 @@ android:id="@+id/emailuser"
                                     android:inputType="textEmailAddress"
                                     android:textColor="@color/black"
                                     android:textColorHint="@color/black" />
-
                         </com.google.android.material.textfield.TextInputLayout>
 
                         <com.google.android.material.textfield.TextInputLayout
@@ -94,7 +100,6 @@ android:id="@+id/emailuser"
                             android:gravity="center"
                             app:boxBackgroundMode="none"
                             app:endIconMode="password_toggle">
-
                                 <com.google.android.material.textfield.TextInputEditText
                                     android:id="@+id/passworduser"
                                     android:layout_width="match_parent"
@@ -104,6 +109,7 @@ android:id="@+id/emailuser"
                                     android:textColor="@color/black"
                                     android:textColorHint="@color/black" />
                         </com.google.android.material.textfield.TextInputLayout>
+
                         <com.google.android.material.textfield.TextInputLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -112,7 +118,6 @@ android:id="@+id/emailuser"
                             android:gravity="center"
                             app:boxBackgroundMode="none"
                             app:endIconMode="password_toggle">
-
                                 <com.google.android.material.textfield.TextInputEditText
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -121,7 +126,6 @@ android:id="@+id/emailuser"
                                     android:textColor="@color/black"
                                     android:textColorHint="@color/black" />
                         </com.google.android.material.textfield.TextInputLayout>
-
 
                         <CheckBox
                             android:layout_width="match_parent"
@@ -148,8 +152,5 @@ android:id="@+id/emailuser"
                             android:textSize="15dp"
                             tools:ignore="TextSizeCheck" />
                 </LinearLayout>
-
-
-</RelativeLayout>
-
-</ScrollView>
+        </RelativeLayout>
+    </ScrollView>
