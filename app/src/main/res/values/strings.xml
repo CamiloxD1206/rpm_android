@@ -32,6 +32,10 @@
     <string name="garajedos">¿Hoy en que viajaras?</string>
     <string name="top">Top Rutas</string>
     <string name="olvide_mi_contrasena">Olvide mi contraseña</string>
-
+    //---------------------------------------------
+    <string name="placeholder_nombres">Nombres</string>
+    <string name="placeholder_apellidos">Apellidos</string>
+    <string name="placeholder_email">Email</string>
+    //---------------------------------------------
 
 </resources>
