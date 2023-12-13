@@ -36,6 +36,15 @@
     <string name="placeholder_nombres">Nombres</string>
     <string name="placeholder_apellidos">Apellidos</string>
     <string name="placeholder_email">Email</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="txt_21">21</string>
+    <string name="txt_rutas">Rutas</string>
+    <string name="txt_69">69</string>
+    <string name="txt_kilometros">Kilometros</string>
+    <string name="txt_4">4</string>
+    <string name="txt_motos">motos</string>
+    <string name="btn_editar_perfil">Editar Perfil</string>
+    <string name="txt_podra_modificar_los_datos_de_su_perfil_cada_cierto_tiempo">Podra modificar los datos de su perfil cada cierto tiempo</string>
     //---------------------------------------------
 
 </resources>

@@ -19,7 +19,7 @@
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
             android:layout_marginBottom="20dp"
-            android:text="Perfil"
+            android:text="@string/title_perfil"
             android:textColor="@color/white"
             android:textSize="28sp"
             android:textStyle="bold" />
@@ -63,7 +63,7 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:text="21"
+                                    android:text="@string/txt_21"
                                     android:textSize="20sp"
                                     android:textStyle="bold"
                                     android:textColor="@color/black"/>
@@ -72,7 +72,7 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:text="Rutas"
+                                    android:text="@string/txt_rutas"
                                     android:textSize="16sp"
                                     android:textColor="@color/black"/>
                             </LinearLayout>
@@ -86,7 +86,7 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:text="21"
+                                    android:text="@string/txt_69"
                                     android:textSize="20sp"
                                     android:textStyle="bold"
                                     android:textColor="@color/black"/>
@@ -95,7 +95,7 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:text="Kilometros"
+                                    android:text="@string/txt_kilometros"
                                     android:textSize="16sp"
                                     android:textColor="@color/black"/>
                             </LinearLayout>
@@ -109,7 +109,7 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:text="21"
+                                    android:text="@string/txt_4"
                                     android:textSize="20sp"
                                     android:textStyle="bold"
                                     android:textColor="@color/black"/>
@@ -118,7 +118,7 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:text="motos"
+                                    android:text="@string/txt_motos"
                                     android:textSize="16sp"
                                     android:textColor="@color/black"/>
                             </LinearLayout>
@@ -257,7 +257,7 @@
                                     android:layout_width="200dp"
                                     android:layout_height="52dp"
                                     android:layout_gravity="right"
-                                    android:text="Editar Perfil"
+                                    android:text="@string/btn_editar_perfil"
                                     android:textSize="17sp"
                                     android:textColor="@color/white"
                                     app:cornerRadius="13dp" />
@@ -269,7 +269,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
                             android:textStyle="italic"
-                            android:text="Podra modificar los datos de su perfil cada cierto tiempo"
+                            android:text="@string/txt_podra_modificar_los_datos_de_su_perfil_cada_cierto_tiempo"
                             android:textSize="15sp"
                             android:textAlignment="center"
                             android:textColor="@color/black"
@@ -303,7 +303,6 @@
                     android:layout_weight="1"
                     android:layout_gravity="center_vertical"
                     android:src="@drawable/baseline_widgets_24"/>
-
             </LinearLayout>
         </LinearLayout>
 </RelativeLayout>
