@@ -44,6 +44,7 @@
     <string name="txt_4">4</string>
     <string name="txt_motos">motos</string>
     <string name="btn_editar_perfil">Editar Perfil</string>
+    <string name="btn_guardar_cambios">Guardar cambios</string>
     <string name="txt_podra_modificar_los_datos_de_su_perfil_cada_cierto_tiempo">Podra modificar los datos de su perfil cada cierto tiempo</string>
     //---------------------------------------------
 
