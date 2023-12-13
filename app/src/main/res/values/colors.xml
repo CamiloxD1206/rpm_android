@@ -4,5 +4,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#FFC800</color>
     <color name="celeste">#A3DCE5</color>
+<<<<<<< HEAD
     <color name="gray">#D5D5D5</color>
+=======
+    <color name="gray">#EDF1F1</color>
+
+>>>>>>> 9f8e92df63e93608ac4066e3ff4ca74f4f3bf862
 </resources>
