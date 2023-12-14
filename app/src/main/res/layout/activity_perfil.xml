@@ -41,7 +41,7 @@
 
             <ScrollView
                 android:layout_width="match_parent"
-                android:layout_height="410dp">
+                android:layout_height="450dp">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -232,6 +232,7 @@
                             android:orientation="horizontal">
 
                             <LinearLayout
+                                android:id="@+id/btn_back"
                                 android:layout_width="80dp"
                                 android:layout_height="46dp"
                                 android:orientation="horizontal"
@@ -254,6 +255,7 @@
                                 android:gravity="right">
 
                                 <Button
+                                    android:id="@+id/btn_edit_perfil"
                                     android:layout_width="200dp"
                                     android:layout_height="52dp"
                                     android:layout_gravity="right"
@@ -280,6 +282,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="55dp"
+                android:layout_marginTop="20dp"
                 android:orientation="horizontal"
                 android:background="@drawable/background_bottom_navigation">
 

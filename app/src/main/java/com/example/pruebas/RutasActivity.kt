@@ -1,5 +1,6 @@
 package com.example.pruebas
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -11,5 +12,11 @@ class RutasActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityRutasBinding.inflate(LayoutInflater.from(this))
         setContentView(binding.root)
+
+        binding.btnBack.setOnClickListener{
+            val intent = Intent(this, HomeActivity::class.java)
+            startActivity(intent)
+            finish()
+        }
     }
 }

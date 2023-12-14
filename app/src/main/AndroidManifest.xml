@@ -14,37 +14,30 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pruebas"
         tools:targetApi="31">
-
+        <activity
+            android:name=".SelectGarajeActivity"
+            android:exported="true">
+        </activity>
         <activity
             android:name=".SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity
-            android:name=".GarajeActivity"
-            android:exported="true" />
-
         <activity
             android:name=".RutasActivity"
-            android:exported="true">
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".PresupuestoActivity"
-            android:exported="true">
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".EditPerfilActivity"
-            android:exported="true">
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".PerfilActivity"
-            android:exported="true">
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".LoginActivity"
             android:exported="true" />
@@ -55,9 +48,8 @@
             android:name=".RegisterActivity"
             android:exported="true" />
         <activity
-            android:name=".GaajeActivity"
-            android:exported="true">
-        </activity>
+            android:name=".GarajeActivity"
+            android:exported="true"></activity>
         <activity
             android:name=".MainActivity"
             android:exported="true" />

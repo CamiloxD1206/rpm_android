@@ -28,6 +28,12 @@ class RegisterActivity : AppCompatActivity() {
                 .putExtra("registered_password", password)
             startActivity(intent)
         }
+
+        binding.txtLogin.setOnClickListener {
+            val intent = Intent(this, LoginActivity::class.java)
+            startActivity(intent)
+            finish()
+        }
     }
 
     private fun saveUserData(nombre: String, apellido: String, email: String, password: String) {
@@ -41,4 +47,6 @@ class RegisterActivity : AppCompatActivity() {
 
         editor.apply()
     }
+
+
 }
