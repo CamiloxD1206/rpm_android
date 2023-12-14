@@ -1,8 +1,8 @@
 package com.example.pruebas
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.example.pruebas.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -14,14 +14,15 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.btnlogin.setOnClickListener {
-           val intent = Intent(this,LoginActivity::class.java)
+            val intent = Intent(this,GarajeActivity::class.java)
             startActivity(intent)
             finish()
         }
-       binding.btnregister.setOnClickListener {
-         val intent = Intent(this,RegisterActivity::class.java)
-           startActivity(intent)
+
+        binding.btnregister.setOnClickListener {
+            val intent = Intent(this, RegisterActivity::class.java)
+            startActivity(intent)
             finish()
-       }
+        }
     }
 }

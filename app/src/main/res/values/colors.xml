@@ -4,8 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#FFC800</color>
     <color name="celeste">#A3DCE5</color>
+
     <color name="gray">#D5D5D5</color>
-=======
     <color name="gray_2">#EDF1F1</color>
     <color name="color_red_presupuesto">#E04747</color>
     <color name="background_presupuesto_white">#EDF1F1</color>
@@ -13,5 +13,5 @@
     <color name="presupuesto_yellow">#E09F47</color>
     <color name="presupuesto_blue">#47B9E0</color>
 
-    >>>>>>> 9f8e92df63e93608ac4066e3ff4ca74f4f3bf862
+
 </resources>

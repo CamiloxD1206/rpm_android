@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="deploymentTargetDropDown">
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0a9154b189cc162e9fad7d56034a8ed8e1e21b67
     <value>
       <entry key="app">
         <State />
       </entry>
     </value>
+<<<<<<< HEAD
+=======
+    <targetSelectedWithDropDown>
+      <Target>
+        <type value="QUICK_BOOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\ADSI-1\.android\avd\Resizable_Experimental_API_34.avd" />
+          </Key>
+        </deviceKey>
+      </Target>
+    </targetSelectedWithDropDown>
+    <timeTargetWasSelectedWithDropDown value="2023-12-14T18:29:41.189137400Z" />
+>>>>>>> fb6f43a45aaf768d1828638a6a55e4c008993246
+=======
+>>>>>>> 0a9154b189cc162e9fad7d56034a8ed8e1e21b67
   </component>
 </project>

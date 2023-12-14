@@ -5,9 +5,12 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option name="testRunner" value="GRADLE" />
 =======
 >>>>>>> 50268580ab50e996c6270103e158920049a33b65
+=======
+>>>>>>> a52401c7a1b73421af958afc55fdb7504fcf5ab5
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
