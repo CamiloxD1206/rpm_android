@@ -241,17 +241,17 @@
                         android:paddingEnd="23dp">
 
                         <ImageView
-                            android:layout_width="40dp"
+                            android:layout_width="35dp"
                             android:layout_height="match_parent"
                             android:layout_marginEnd="13dp"
-                            android:src="@drawable/presupuesto_hotel" />
+                            android:src="@drawable/presupuesto_food" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:layout_weight="1"
                             android:gravity="center_vertical"
-                            android:text="@string/txt_hospedaje"
+                            android:text="@string/txt_comida"
                             android:textColor="@color/black"
                             android:textSize="20sp" />
 
@@ -260,7 +260,7 @@
                             android:layout_height="match_parent"
                             android:layout_weight="1"
                             android:gravity="center_vertical|right"
-                            android:text="@string/txt_1_noche"
+                            android:text="@string/txt_1_porci_n"
                             android:textColor="@color/black"
                             android:textSize="20sp" />
                     </LinearLayout>
@@ -277,7 +277,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="@string/txt_hotel_san_martin"
+                            android:text="@string/txt_pio_pio"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
 
@@ -286,7 +286,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center_horizontal|right"
-                            android:text="@string/txt_150_500"
+                            android:text="@string/txt_40_500"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
                     </LinearLayout>
@@ -303,7 +303,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="@string/txt_hotel_los_farallones"
+                            android:text="@string/txt_carantanta"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
 
@@ -312,7 +312,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center_horizontal|right"
-                            android:text="@string/txt_35_000"
+                            android:text="@string/txt_10_000"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
                     </LinearLayout>
@@ -337,7 +337,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center_horizontal|right"
-                            android:text="@string/txt_92_750"
+                            android:text="@string/txt_25_250"
                             android:textColor="@color/black"
                             android:textSize="19sp"
                             android:textStyle="bold" />
@@ -369,14 +369,14 @@
                             android:layout_width="40dp"
                             android:layout_height="match_parent"
                             android:layout_marginEnd="13dp"
-                            android:src="@drawable/presupuesto_hotel" />
+                            android:src="@drawable/presupuesto_petrol" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:layout_weight="1"
                             android:gravity="center_vertical"
-                            android:text="@string/txt_hospedaje"
+                            android:text="@string/txt_gasolina"
                             android:textColor="@color/black"
                             android:textSize="20sp" />
 
@@ -385,9 +385,9 @@
                             android:layout_height="match_parent"
                             android:layout_weight="1"
                             android:gravity="center_vertical|right"
-                            android:text="@string/txt_1_noche"
+                            android:text="@string/txt_1_gal_n"
                             android:textColor="@color/black"
-                            android:textSize="20sp" />
+                            android:textSize="20sp"/>
                     </LinearLayout>
 
                     <LinearLayout
@@ -402,7 +402,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="@string/txt_hotel_san_martin"
+                            android:text="@string/txt_popay_n"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
 
@@ -411,7 +411,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center_horizontal|right"
-                            android:text="@string/txt_150_500"
+                            android:text="@string/txt_15_200"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
                     </LinearLayout>
@@ -428,7 +428,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="@string/txt_hotel_los_farallones"
+                            android:text="@string/txt_cali"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
 
@@ -437,7 +437,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center_horizontal|right"
-                            android:text="@string/txt_35_000"
+                            android:text="@string/txt_9_484"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
                     </LinearLayout>
@@ -462,7 +462,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center_horizontal|right"
-                            android:text="@string/txt_92_750"
+                            android:text="@string/txt_30_000"
                             android:textColor="@color/black"
                             android:textSize="19sp"
                             android:textStyle="bold" />
@@ -495,14 +495,14 @@
                             android:layout_width="40dp"
                             android:layout_height="match_parent"
                             android:layout_marginEnd="13dp"
-                            android:src="@drawable/presupuesto_hotel" />
+                            android:src="@drawable/presupuesto_recreation" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:layout_weight="1"
                             android:gravity="center_vertical"
-                            android:text="@string/txt_hospedaje"
+                            android:text="@string/txt_recreaci_n"
                             android:textColor="@color/black"
                             android:textSize="20sp" />
 
@@ -511,7 +511,7 @@
                             android:layout_height="match_parent"
                             android:layout_weight="1"
                             android:gravity="center_vertical|right"
-                            android:text="@string/txt_1_noche"
+                            android:text="@string/txt_1_persona"
                             android:textColor="@color/black"
                             android:textSize="20sp" />
                     </LinearLayout>
@@ -528,7 +528,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="@string/txt_hotel_san_martin"
+                            android:text="@string/txt_totoro"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
 
@@ -537,7 +537,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center_horizontal|right"
-                            android:text="@string/txt_150_500"
+                            android:text="@string/txt_10_500"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
                     </LinearLayout>
@@ -554,7 +554,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="@string/txt_hotel_los_farallones"
+                            android:text="@string/txt_salvajina"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
 
@@ -563,7 +563,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center_horizontal|right"
-                            android:text="@string/txt_35_000"
+                            android:text="@string/txt_gratis"
                             android:textColor="@color/black"
                             android:textSize="19sp" />
                     </LinearLayout>
@@ -588,7 +588,7 @@
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
                             android:gravity="center_horizontal|right"
-                            android:text="@string/txt_92_750"
+                            android:text="@string/txt_5_500"
                             android:textColor="@color/black"
                             android:textSize="19sp"
                             android:textStyle="bold" />
