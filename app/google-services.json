@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525875060627",
+    "project_id": "iniciosesion-aabd9",
+    "storage_bucket": "iniciosesion-aabd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525875060627:android:20079a7ffc157df1291266",
+        "android_client_info": {
+          "package_name": "com.example.pruebas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-80TcbV49ff3yhMebeN3IOG2N_40ee8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -19,6 +19,7 @@ class SplashActivity : AppCompatActivity() {
         )
 
         startActivity(intent, opciones.toBundle())
+        finish()
 
     }
 }

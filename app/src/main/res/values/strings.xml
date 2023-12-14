@@ -2,20 +2,84 @@
     <string name="app_name">Rutas Para Moteros</string>
     <string name="login">Login</string>
     <string name="bienvenida">BIENVENIDO A DARKSIDE</string>
-    <string name="registrate">no tienes cuenta?Registrate</string>
+    <string name="registrate">¿No tienes cuenta?</string>
+    <string name="registrate_2">Registrate</string>
     <string name="ingreso">Ingresar</string>
     <string name="registro">Crear cuenta</string>
+    <string name="iniciar">Inicio sesión</string>
     <string name="registrousu">Registro de Usuario</string>
+    <string name="registraso">Registro</string>
     //---------------------hint-------------------
     <string name="email">Email</string>
     <string name="usuarioor">Usuario o Correo</string>
     <string name="password">Contraseña</string>
+    <string name="passwordconfirm">Confirmar contraseña</string>
     <string name="documento">Tipo de documento</string>
     <string name="registrarse">Registrarme</string>
     <string name="regreso">Regresar</string>
     <string name="identificacion">Numero de identificacion</string>
     <string name="nombres">Nombres</string>
     <string name="apellidos">Apellidos</string>
+    <string name="registrarsePortada">Registrarse</string>
+    <string name="Portadalogin">Iniciar Sesión</string>
+    <string name="spinner">Español</string>
+    //---------------------------------------------
+    <string name="trazar">Trazar Rutas</string>
+    <string name="trazardos">Entra para trazar una ruta</string>
+    <string name="presupuesto">Presuspuesto</string>
+    <string name="presupuestodos">Conoce los mejores precios</string>
+    <string name="garaje">Garaje</string>
+    <string name="garajedos">¿Hoy en que viajaras?</string>
+    <string name="top">Top Rutas</string>
+    <string name="olvide_mi_contrasena">Olvide mi contraseña</string>
+    //---------------------------------------------
+    <string name="placeholder_nombres">Nombres</string>
+    <string name="placeholder_apellidos">Apellidos</string>
+    <string name="placeholder_email">Email</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="txt_21">21</string>
+    <string name="txt_rutas">Rutas</string>
+    <string name="txt_69">69</string>
+    <string name="txt_kilometros">Kilometros</string>
+    <string name="txt_4">4</string>
+    <string name="txt_motos">motos</string>
+    <string name="btn_editar_perfil">Editar Perfil</string>
+    <string name="btn_guardar_cambios">Guardar cambios</string>
+    <string name="txt_podra_modificar_los_datos_de_su_perfil_cada_cierto_tiempo">Podra modificar los datos de su perfil cada cierto tiempo</string>
+    //---------------------------------------------
+    <string name="txt_hospedaje">Hospedaje</string>
+    <string name="txt_1_noche">1/Noche</string>
+    <string name="txt_hotel_san_martin">Hotel san martin</string>
+    <string name="txt_150_500">$150.500</string>
+    <string name="txt_hotel_los_farallones">Hotel los farallones</string>
+    <string name="txt_35_000">$35.000</string>
+    <string name="txt_92_750">$92.750</string>
+    <string name="txt_comida">Comida</string>
+    <string name="txt_1_porci_n">1/Porción</string>
+    <string name="txt_pio_pio">Pio pio</string>
+    <string name="txt_40_500">$40.500</string>
+    <string name="txt_carantanta">Carantanta</string>
+    <string name="txt_10_000">$10.000</string>
+    <string name="txt_25_250">$25.250</string>
+    <string name="txt_30_000">$30.000</string>
+    <string name="txt_9_484">$9.484</string>
+    <string name="txt_cali">Cali</string>
+    <string name="txt_15_200">$15.200</string>
+    <string name="txt_popay_n">Popayán</string>
+    <string name="txt_1_gal_n">1/Galón</string>
+    <string name="txt_gasolina">Gasolina</string>
+    <string name="txt_recreaci_n">Recreación</string>
+    <string name="txt_1_persona">1/Persona</string>
+    <string name="txt_5_500">$5.500</string>
+    <string name="txt_gratis">Gratis</string>
+    <string name="txt_salvajina">Salvajina</string>
+    <string name="txt_10_500">$10.500</string>
+    <string name="txt_totoro">Totoro</string>
+    <string name="txt_tienes_cuenta">¿Tienes cuenta?</string>
+    <string name="txt_inicia_sesi_n">Inicia sesión</string>
+    <string name="btn_back"><![CDATA[<]]></string>
+    //---------------------------------------------
 
+    //---------------------------------------------
 
 </resources>
