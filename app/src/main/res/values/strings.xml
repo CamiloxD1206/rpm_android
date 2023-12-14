@@ -47,5 +47,14 @@
     <string name="btn_guardar_cambios">Guardar cambios</string>
     <string name="txt_podra_modificar_los_datos_de_su_perfil_cada_cierto_tiempo">Podra modificar los datos de su perfil cada cierto tiempo</string>
     //---------------------------------------------
+    <string name="txt_hospedaje">Hospedaje</string>
+    <string name="txt_1_noche">1/Noche</string>
+    <string name="txt_hotel_san_martin">Hotel san martin</string>
+    <string name="txt_150_500">$150.500</string>
+    <string name="txt_hotel_los_farallones">Hotel los farallones</string>
+    <string name="txt_35_000">$35.000</string>
+    <string name="txt_92_750">$92.750</string>
+
+    //---------------------------------------------
 
 </resources>
